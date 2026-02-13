@@ -14,7 +14,7 @@ Nos complace presentar estas ideas que buscan desencadenar un proceso gradual de
 ## Visión general
 Nuestro objetivo es fortalecer el trabajo de la FRM para ofrecer herramientas prácticas y concretas a los niños de Manabí y sus familias, las mismas que podrán usarse para empezar a construir un futuro estable y pleno, con esfuerzo, paciencia y perseverancia.
 
-Estas iniciativas están diseñadas para fortalecer autoestima, autonomía, acceso responsable a tecnología, acceso a educación en valores, acceso a salud y acceso a alimentación.
+Estas iniciativas están diseñadas para fortalecer autoestima, autonomía, acceso responsable a tecnología, acceso a educación en valores, acceso a salud y acceso a alimentación. Además, todas nuestras líneas de acción estarán respaldadas por campañas potentes de educación civil (casi inexistente en Ecuador), diseñadas para fortalecer el tejido social y garantizar que la transformación en Manabí sea profunda y sostenible en el tiempo.
 
 ---
 
@@ -65,7 +65,7 @@ Desde Kod Kod, implementaremos un programa piloto de mentoría tecnológica para
 Falta de visibilidad de la gestión de la FRM en Manabí para atraer a más instituciones locales y extranjeras. La provincia está frente a una elección fundamental entre la “luz” (educación y progreso) y la “oscuridad” (pobreza y crimen organizado).
 
 ### La propuesta
-Serie documental que acompaña a los niños beneficiados para conocer su vida y ver cómo el fútbol y los valores impactan en su día a día.
+ La propuesta: serie documental que acompaña a los niños de Manabí beneficiados por la FRM durante una época, para conocer su vida y ver cómo el fútbol y los valores que de él se desprenden van impactando en su vida. El mismo formato puede aplicarse a los logros obtenidos en la Escuela Sociodeportiva, en convenio con la UISEK. 
 
 | Métrica | Detalle |
 | :--- | :--- |
