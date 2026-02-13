@@ -14,7 +14,7 @@ Nos complace presentar estas ideas que buscan desencadenar un proceso gradual de
 ## Visión general
 Nuestro objetivo es fortalecer el trabajo de la FRM para ofrecer herramientas prácticas y concretas a los niños de Manabí y sus familias, las mismas que podrán usarse para empezar a construir un futuro estable y pleno, con esfuerzo, paciencia y perseverancia.
 
-Estas iniciativas están diseñadas para fortalecer autoestima, autonomía, acceso responsable a tecnología, acceso a educación en valores, acceso a salud y acceso a alimentación. Además, todas nuestras líneas de acción estarán respaldadas por campañas potentes de educación civil (casi inexistente en Ecuador), diseñadas para fortalecer el tejido social y garantizar que la transformación en Manabí sea profunda y sostenible en el tiempo.
+Estas iniciativas están diseñadas para fortalecer autoestima, autonomía, acceso responsable a tecnología, acceso a educación en valores, acceso a salud y acceso a alimentación. Además, todas nuestras líneas de acción estarán respaldadas por campañas potentes de educación civil (casi inexistentes en Ecuador), diseñadas para fortalecer el tejido social y garantizar que la transformación en Manabí sea profunda y sostenible en el tiempo.
 
 ---
 
