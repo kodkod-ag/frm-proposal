@@ -1,5 +1,5 @@
 # Ecuador: iniciativas futuras
-## Propuestas de iniciativas para la Fundación Real Madrid
+## Propuesta de iniciativas para la Fundación Real Madrid
 
 Nos complace presentar estas ideas que buscan desencadenar un proceso gradual de mejora social en la provincia de Manabí-Ecuador, así como en otras áreas del país que estén alineadas con los más de 150 proyectos de la Fundación Real Madrid (FRM) en Latinoamérica.
 
@@ -15,6 +15,10 @@ Nos complace presentar estas ideas que buscan desencadenar un proceso gradual de
 Nuestro objetivo es fortalecer el trabajo de la FRM para ofrecer herramientas prácticas y concretas a los niños de Manabí y sus familias, las mismas que podrán usarse para empezar a construir un futuro estable y pleno, con esfuerzo, paciencia y perseverancia.
 
 Estas iniciativas están diseñadas para fortalecer autoestima, autonomía, acceso responsable a tecnología, acceso a educación en valores, acceso a salud y acceso a alimentación. Además, todas nuestras líneas de acción estarán respaldadas por campañas potentes de educación civil (casi inexistentes en Ecuador), diseñadas para fortalecer el tejido social y garantizar que la transformación en Manabí sea profunda y sostenible en el tiempo.
+
+Nuestra propuesta se concentra en la zona de Jama, Manabí, punto estratégico de la llamada "Mancomunidad del Pacífico Norte", [MANPANOR](https://manpanor.gob.ec), cuyo actual presidente, Néxsar Cevallos Medina, es, precisamente, el actual alcalde del cantón Jama. Hemos detectado que en la zona existen varias iniciativas ciudadanas, entre las cuales se destacan Jóvenes de MANPANOR, Sembradores de Paz, así y la Fundación A Mano Manaba y la iniciativa Futuros Urbanos, de Fundación Hivos, en sociedad con Fundación Fuegos. Estas iniciativas cubren aspectos como: fomento de la lectura y el desarrollo cultural, soberanía alimentaria y alimentación inclusiva. 
+
+Según [Fundación Hivos](https://america-latina.hivos.org/program/futuros-urbanos/ciudades/manpanor/), "MANPANOR (Mancomunidad Pacífico Norte de Manabí) está situada en la provincia ecuatoriana de Manabí. Está formada por cuatro municipios con una población total de unos 200.000 habitantes, de los cuales el 60% son menores de 30 años. La Mancomunidad se creó para reforzar la gobernanza y la participación ciudadana en cuestiones de desarrollo. Sus municipios se enfrentan a los mismos retos, entre ellos la migración juvenil..."
 
 ---
 
@@ -148,7 +152,7 @@ El pueblo de **Don Juan** posee un potencial excepcional. La Fundación [**“A 
 ## Sobre Kod Kod
 
 El Kodkod (o güiña) es el felino más pequeño de toda América; un habitante de los bosques andinos que, a pesar de su tamaño, posee un espíritu ferozmente independiente y una capacidad de adaptación asombrosa. 
-Inspirada en esa naturaleza, Kod Kod se define como una boutique creativa de estructura ágil y alta especialización, dedicada a generar ideas y estrategias innovadoras que transforman el propósito de una organización en un impacto social tangible. 
+Inspirados en esa naturaleza, Kod Kod nace como una agencia creativa de estructura ágil y alta especialización, dedicada a generar ideas y estrategias innovadoras que transforman el propósito de una organización en un impacto social tangible. 
 
 A través del diseño estratégico, la narrativa audiovisual y el storytelling, desarrollamos conceptos únicos y visualmente contundentes con la fuerza necesaria para movilizar comunidades y redefinir la realidad de su entorno.
 
