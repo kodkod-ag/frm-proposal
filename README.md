@@ -16,7 +16,7 @@ Nuestro objetivo es fortalecer el trabajo de la FRM para ofrecer herramientas pr
 
 Estas iniciativas están diseñadas para fortalecer autoestima, autonomía, acceso responsable a tecnología, acceso a educación en valores, acceso a salud y acceso a alimentación. Además, todas nuestras líneas de acción estarán respaldadas por campañas potentes de educación civil (casi inexistentes en Ecuador), diseñadas para fortalecer el tejido social y garantizar que la transformación en Manabí sea profunda y sostenible en el tiempo.
 
-Nuestra propuesta se concentra en la zona de Jama, Manabí, punto estratégico de la llamada "Mancomunidad del Pacífico Norte", [MANPANOR](https://manpanor.gob.ec), cuyo actual presidente, Néxsar Cevallos Medina, es, precisamente, el actual alcalde del cantón Jama. Hemos detectado que en la zona existen varias iniciativas ciudadanas, entre las cuales se destacan Jóvenes de MANPANOR, Sembradores de Paz, así y la Fundación A Mano Manaba y la iniciativa Futuros Urbanos, de Fundación Hivos, en sociedad con Fundación Fuegos. Estas iniciativas cubren aspectos como: fomento de la lectura y el desarrollo cultural, soberanía alimentaria y alimentación inclusiva. 
+Nuestra propuesta se concentra en la zona de Jama, Manabí, punto estratégico de la llamada "Mancomunidad del Pacífico Norte", [MANPANOR](https://manpanor.gob.ec), cuyo actual presidente, Néxsar Cevallos Medina, es, precisamente, el actual alcalde del cantón Jama. Hemos detectado que en la zona existen varias iniciativas ciudadanas, entre las cuales se destacan Jóvenes de MANPANOR, Sembradores de Paz, así como la Fundación A Mano Manaba y la iniciativa Futuros Urbanos, de Fundación Hivos, en sociedad con Fundación Fuegos. Estas iniciativas cubren aspectos como: fomento de la lectura y el desarrollo cultural, soberanía alimentaria y alimentación inclusiva. 
 
 Según [Fundación Hivos](https://america-latina.hivos.org/program/futuros-urbanos/ciudades/manpanor/), "MANPANOR (Mancomunidad Pacífico Norte de Manabí) está situada en la provincia ecuatoriana de Manabí. Está formada por cuatro municipios con una población total de unos 200.000 habitantes, de los cuales el 60% son menores de 30 años. La Mancomunidad se creó para reforzar la gobernanza y la participación ciudadana en cuestiones de desarrollo. Sus municipios se enfrentan a los mismos retos, entre ellos la migración juvenil..."
 
@@ -38,7 +38,7 @@ Pero no solo eso. A la mayoría de los niños de Manabí se les ha arrebatado el
 <p align="center">
   <img src="Erick-Niño-Partero.jpg" width="500">
   <br>
-  <b>Erick: ejemplo de la resiliencia y madurez prematura en la provincia.</b>
+  <b>Erick: ejemplo de la resiliencia y madurez prematura.</b>
 </p>
 
 ### La propuesta
