@@ -33,7 +33,7 @@ Para nuestro equipo resultó desolador ver de primera mano el futuro con el que 
 
 Pero no solo eso. A la mayoría de los niños de Manabí se les ha arrebatado el derecho a ser niños sin preocuparse de los problemas de los adultos que supuestamente deben cuidarlos. Los niños de Manabí, muchos de ellos, tal como le pasa a un adulto, necesitan tomar café varias veces al día para "soportar el ritmo" de la vida.Erick, uno de los niños, no mayor de diez años de edad, relató con total naturalidad cómo tuvo que ser el partero improvisado de su tía en dos ocasiones. A su tierna edad, literalmente, trajo al mundo a dos de sus primos. 
 
-> "Erick, un niño de no mayor de doce años, relató con total naturalidad cómo tuvo que ser el partero improvisado de su tía en dos ocasiones. A su tierna edad, literalmente, trajo al mundo a dos de sus primos."
+> "Erick, un niño no mayor de doce años, relató con total naturalidad cómo tuvo que ser el partero improvisado de su tía en dos ocasiones. A su tierna edad, literalmente, trajo al mundo a dos de sus primos."
 
 <p align="center">
   <img src="Erick-Niño-Partero.jpg" width="500">
