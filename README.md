@@ -6,7 +6,7 @@ Nos complace presentar estas ideas que buscan desencadenar un proceso gradual de
 <p align="center">
   <img src="Jama.png" width="800" alt="Cantón Jama, Manabí">
   <br>
-  <em>El Cantón Jama es uno de los asentamientos más antiguos y representativos de la provincia de Manabí.</em>
+  <em>El cantón Jama es uno de los asentamientos más antiguos y representativos de la provincia de Manabí.</em>
 </p>
 
 ---
@@ -14,7 +14,7 @@ Nos complace presentar estas ideas que buscan desencadenar un proceso gradual de
 ## Visión general
 Nuestro objetivo es fortalecer el trabajo de la FRM para ofrecer herramientas prácticas y concretas a los niños de Manabí y sus familias, las mismas que podrán usarse para empezar a construir un futuro estable y pleno, con esfuerzo, paciencia y perseverancia.
 
-Estas iniciativas están diseñadas para fortalecer autoestima, autonomía, acceso responsable a tecnología, acceso a educación en valores, acceso a salud y acceso a alimentación. Además, todas nuestras líneas de acción estarán respaldadas por campañas potentes de educación civil (casi inexistentes en Ecuador), diseñadas para fortalecer el tejido social y garantizar que la transformación en Manabí sea profunda y sostenible en el tiempo.
+Estas iniciativas están diseñadas para fortalecer la autoestima, la autonomía, el acceso responsable a tecnología, el acceso a educación en valores, el acceso a salud y el acceso a alimentación. Además, todas nuestras líneas de acción estarán respaldadas por campañas potentes de educación civil (casi inexistentes en Ecuador), diseñadas para fortalecer el tejido social y garantizar que la transformación en Manabí sea profunda y sostenible en el tiempo.
 
 ---
 
@@ -23,11 +23,11 @@ Estas iniciativas están diseñadas para fortalecer autoestima, autonomía, acce
 ### El desafío: falta de motivación
 Los niños de Manabí, en su gran mayoría, tienen intereses y aficiones, mas no metas. Sin metas, la vida se vuelve un transcurrir sin sentido. 
 
-Durante la realización del video “Mucho más que fútbol”, nos adentramos en la realidad de un grupo de niños y familias de la zona de Jama (por logística, una zona más accesible que la de Montecristi, en donde funciona la escuela CAF Núñez). Kod Kod tiene una base en ese sector, concretamente en Loma Don Juan, a donde nuestro equipo viaja frecuentemente por descanso, producciones y retiros creativos.
+Durante la realización del video “Mucho más que fútbol”, nos adentramos en la realidad de un grupo de niños y familias de la zona de Jama (por logística, una zona más accesible que la de Montecristi, en donde funciona la escuela CAF Núñez). Kod Kod tiene una base en ese sector, concretamente en Loma Don Juan, zona a la que nuestro equipo viaja frecuentemente por descanso, producciones y retiros creativos.
 
-Para nuestro equipo resultó desolador ver de primera mano el futuro con el que sueñan estos niños y niñas: crecer para pasar hambre; criar hijos sin apoyo (en el caso de las niñas) y tratar de olvidar el poco sentido que tiene su vida a través del alcohol (en el caso de los niños), siempre presente durante los fines de semana. Ese es el panorama que para ellos pintan sus padres, desde la inconsciencia y la repetición casi inevitable de patrones tóxicos. 
+Durante el rodaje antes mencionado, resultó desolador ver de primera mano el futuro con el que sueñan estos niños y niñas: crecer para pasar hambre; criar hijos sin apoyo (en el caso de las niñas) y tratar de olvidar el poco sentido que tiene su vida a través del alcohol (en el caso de los niños), siempre presente durante los fines de semana. Ese es el panorama que para ellos pintan sus padres, desde la inconsciencia y la repetición casi inevitable de patrones tóxicos. 
 
-Pero no solo eso. A la mayoría de los niños de Manabí se les ha arrebatado el derecho a ser niños sin preocuparse de los problemas de los adultos que supuestamente deben cuidarlos. Los niños de Manabí, muchos de ellos, tal como le pasa a un adulto, necesitan tomar café varias veces al día para "soportar el ritmo" de la vida.Erick, uno de los niños, no mayor de diez años de edad, relató con total naturalidad cómo tuvo que ser el partero improvisado de su tía en dos ocasiones. A su tierna edad, literalmente, trajo al mundo a dos de sus primos. 
+Pero no solo eso. A la mayoría de los niños de Manabí se les ha arrebatado el derecho a ser niños sin preocuparse de los problemas de los adultos que supuestamente deben cuidarlos. Los niños de Manabí, muchos de ellos, tal como le pasa a un adulto, necesitan tomar café varias veces al día para "soportar el ritmo" de la vida. Erick, uno de los niños, no mayor de diez años de edad, relató con total naturalidad cómo tuvo que ser el partero improvisado de su tía en dos ocasiones. A su tierna edad, literalmente, trajo al mundo a dos de sus primos. 
 
 > "Erick, un niño no mayor de doce años, relató con total naturalidad cómo tuvo que ser el partero improvisado de su tía en dos ocasiones. A su tierna edad, literalmente, trajo al mundo a dos de sus primos."
 
@@ -43,7 +43,7 @@ Desde Kod Kod, implementaremos un programa piloto de mentoría tecnológica para
 ### Impacto estimado
 | Métrica | Detalle |
 | :--- | :--- |
-| **Expectativa** | El objetivo es que al menos un 80 % de los participantes logren terminar el programa y recibir una certificación. La formación incluye la cobertura de los partidos y torneos del CAF. |
+| **Expectativa** | El objetivo es que al menos un 80 % de los participantes logren terminar el programa y recibir una certificación. La formación incluye la cobertura de los partidos y torneos de la CAF. |
 | **Alcance** | Guayas, Pichincha y Manabí concentran una alta población infantil. Las piezas producidas serán difundidas a audiencias infantiles, aspirando a llegar a 150,000 niños. Como referencia, Pol Deportes ha amasado casi 2 millones de seguidores en TikTok y su hazaña viral le valió narrar un partido del Real Madrid. |
 
 <p align="center">
@@ -69,7 +69,7 @@ Falta de visibilidad de la gestión de la FRM en Manabí para atraer a más inst
 
 | Métrica | Detalle |
 | :--- | :--- |
-| **Expectativa** | Generar un sentido de pertenencia y orgullo local. Buscamos documentar la transición del niño que carece de horizontes hacia un joven con disciplina, gracias al deporte y los valores que la FRM promueve con sus iniciativas. Como señala Yoselin Vélez (Museo Jama Coaque), el habitante local a veces vive con su riqueza cultural pero *"no le toma mucha importancia"* por la cotidianidad; este documental busca que el niño sea protagonista de su historia. |
+| **Expectativa** | Generar un sentido de pertenencia y orgullo local. Buscamos documentar la transición del niño que carece de horizontes hacia un joven con disciplina, gracias al deporte y los valores que la FRM promueve con sus iniciativas. Como señala Yoselin Vélez (Museo Jama Coaque), el habitante local a veces vive con su riqueza cultural, pero *"no le toma mucha importancia"* por la cotidianidad; este documental busca que el niño sea protagonista de su historia. |
 | **Alcance** | La serie apunta a audiencias globales interesadas en responsabilidad social. Buscamos atraer la mirada de instituciones internacionales al mostrar que en Manabí existe un potencial humano inmenso que requiere una plataforma de visibilidad. |
 
 <p align="center">
@@ -90,7 +90,7 @@ Replicar el modelo de la escuela CAF Núñez en la provincia de Jama, concretame
 
 | Métrica | Detalle |
 | :--- | :--- |
-| **Expectativa** | Rformalizar y potenciar iniciativas ciudadanas que hoy operan con recursos limitados, al replicar el modelo de la escuela CAF Núñez en la zona de Jama. Emma Vera, del Municipio de Jama, menciona que existen grupos como los **"Sembradores de paz"**, donde jóvenes que desde el terremoto enseñan a los más pequeños valores a través del juego, pero que *"no tienen para comprar la hoja, para comprar lápiz de colores"* o reponer materiales básicos dañados. La expectativa es profesionalizar estos esfuerzos, enlazándolos con la práctica deportiva y dotándolos de la metodología y recursos de la FRM. |
+| **Expectativa** | Fformalizar y potenciar iniciativas ciudadanas que hoy operan con recursos limitados, al replicar el modelo de la escuela CAF Núñez en la zona de Jama. Emma Vera, del Municipio de Jama, menciona que existen grupos como los **"Sembradores de paz"**, donde jóvenes que desde el terremoto enseñan a los más pequeños valores a través del juego, pero que *"no tienen para comprar la hoja, para comprar lápiz de colores"* o reponer materiales básicos dañados. La expectativa es profesionalizar estos esfuerzos, enlazándolos con la práctica deportiva y dotándolos de la metodología y recursos de la FRM. |
 | **Alcance** | Impactar directamente en las 42 comunidades del cantón Jama. Al establecer una base en Don Juan, se crea un polo de desarrollo donde niños desde los 2 años empiezan a formarse en un ambiente sano y seguro. |
 
 <p align="center">
@@ -124,22 +124,22 @@ Desarrollar una iniciativa de largo plazo con aliados como Corporación La Favor
   <img src="Cultura-Jama-Coaque3.jpg" width="500">
 </p>
 
-Nuestra propuesta se concentra en la zona de Jama, Manabí, punto estratégico de la llamada "Mancomunidad del Pacífico Norte", [MANPANOR](https://manpanor.gob.ec), cuyo actual presidente, Néxsar Cevallos Medina, es también el actual alcalde del cantón Jama. Hemos detectado que en la zona existen varias iniciativas ciudadanas, entre las cuales se destacan Jóvenes de MANPANOR y Sembradores de Paz, así como la Fundación A Mano Manaba y la iniciativa Futuros Urbanos, de Fundación Hivos, en sociedad con Fundación Fuegos. Estas iniciativas cubren aspectos como: fomento de la lectura y el desarrollo cultural, soberanía alimentaria y alimentación inclusiva. 
+Nuestra propuesta se concentra en la zona de Jama, Manabí, punto estratégico de la llamada "Mancomunidad del Pacífico Norte", [MANPANOR](https://manpanor.gob.ec), cuyo actual presidente, Néxsar Cevallos Medina, es también el actual alcalde del cantón Jama. Hemos detectado que en la zona existen varias iniciativas ciudadanas, entre las cuales se destacan Jóvenes de MANPANOR y Sembradores de Paz, así como la Fundación A Mano Manaba y la iniciativa Futuros Urbanos, de Fundación Hivos, en sociedad con Fundación Fuegos. Estas iniciativas cubren aspectos como el fomento de la lectura y el desarrollo cultural, además de la soberanía alimentaria y la alimentación inclusiva. 
 
-Según [Fundación Hivos](https://america-latina.hivos.org/program/futuros-urbanos/ciudades/manpanor/), "MANPANOR (Mancomunidad Pacífico Norte de Manabí) está conformada por cuatro municipios con una población total de unos 200.000 habitantes, de los cuales el 60% son menores de 30 años. La Mancomunidad se creó para reforzar la gobernanza y la participación ciudadana en cuestiones de desarrollo. Sus municipios se enfrentan a los mismos retos, entre ellos la migración juvenil..."
+Según [Fundación Hivos](https://america-latina.hivos.org/program/futuros-urbanos/ciudades/manpanor/), "MANPANOR (Mancomunidad Pacífico Norte de Manabí) está conformada por cuatro municipios con una población total de unos 200.000 habitantes, de los cuales el 60 % son menores de 30 años. La Mancomunidad se creó para reforzar la gobernanza y la participación ciudadana en cuestiones de desarrollo. Sus municipios se enfrentan a los mismos retos, entre ellos la migración juvenil..."
 
 Durante diciembre y enero realizamos una inmersión técnica en Jama para entender por qué los programas sociales suelen tener un impacto efímero. Identificamos que el mayor obstáculo es la **erosión de la identidad**.
 
-* **El olvido de la Cultura Jama-Coaque:** Los niños crecen donde su patrimonio es invisible. Marina Mendoza (Bibliotecaria) resalta: *"Antes teníamos convenio con la Fundación Care... pero con el terremoto todo se perdió... hoy son contadas las bibliotecas que existen"*.
+* **El olvido de la cultura Jama Coaque:** Los niños crecen donde su patrimonio es invisible. Marina Mendoza (Bibliotecaria) resalta: *"Antes teníamos convenio con la Fundación Care... pero con el terremoto todo se perdió... hoy son contadas las bibliotecas que existen"*.
 * 
-* **Pérdida del amor propio:** al no recibir apoyo para fortalecer su idiosincrasia, los jóvenes desarrollan una "desconexión identitaria". Esto explica por qué el horizonte de metas es tan limitado: el niño no se siente parte de una historia de grandeza, sino de una estadística de escasez.
+* **Pérdida del amor propio:** Al no recibir apoyo para fortalecer su idiosincrasia, los jóvenes desarrollan una "desconexión identitaria". Esto explica por qué el horizonte de metas es tan limitado: el niño no se siente parte de una historia de grandeza, sino de una estadística de escasez.
 
 * **Urgencia institucional:** El Municipio reconoce la voluntad de cambio, pero la orfandad presupuestaria impide programas de largo aliento. La FRM puede validar esta identidad a través del deporte.
 
 ### Reflexión final
 Nuestra propuesta es un **rescate de identidad**. Usaremos el fútbol para que el niño de Jama vuelva a sentirse tan poderoso como sus ancestros. Hasta 2017, Jama destacaba como un oasis de tranquilidad; en 2016 cerró con una tasa de **cero homicidios**, espíritu que se mantiene y ofrece un entorno seguro para la inversión social.
 
-El pueblo de **Don Juan** posee un potencial excepcional. La Fundación [**“A mano manaba”**](https://www.amanomanaba.org/), ubicada en Loma Don Juan, por ejemplo, ha logrado premios internacionales, demostrando que la comunidad responde cuando se le brindan herramientas. La biodiversidad de la zona permite, además, observar monos aulladores y guacharacas, escenario inigualable para fomentar el respeto al medio ambiente.
+El pueblo de **Don Juan** posee un potencial excepcional. La Fundación [**“A mano manaba”**](https://www.amanomanaba.org/), ubicada en Loma Don Juan, por ejemplo, ha logrado premios internacionales, demostrando que la comunidad responde cuando se le brindan herramientas. La biodiversidad de la zona permite, además, observar monos aulladores y guacharacas, escenario inigualable para fomentar el respeto al medioambiente.
 
 <p align="center">
   <img src="Los-Monos-de-Loma-Don-Juan.jpg" width="600">
@@ -151,7 +151,7 @@ El pueblo de **Don Juan** posee un potencial excepcional. La Fundación [**“A 
 
 ## Sobre Kod Kod
 
-El Kodkod (o güiña) es el felino más pequeño de toda América; un habitante de los bosques andinos que, a pesar de su tamaño, posee un espíritu ferozmente independiente y una capacidad de adaptación asombrosa. 
+El kodkod (o güiña) es el felino más pequeño de toda América; un habitante de los bosques andinos que, a pesar de su tamaño, posee un espíritu ferozmente independiente y una capacidad de adaptación asombrosa. 
 Inspirados en esa naturaleza, Kod Kod nace como una agencia creativa de estructura ágil y alta especialización, dedicada a generar ideas y estrategias innovadoras que transforman el propósito de una organización en un impacto social tangible. 
 
 A través del diseño estratégico, la narrativa audiovisual y el storytelling, desarrollamos conceptos únicos y visualmente contundentes con la fuerza necesaria para movilizar comunidades y redefinir la realidad de su entorno.
