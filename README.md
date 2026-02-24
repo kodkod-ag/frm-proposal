@@ -139,7 +139,7 @@ Durante diciembre y enero realizamos una inmersión técnica en Jama para entend
 ### Reflexión final
 Nuestra propuesta es un **rescate de identidad**. Usaremos el fútbol para que el niño de Jama vuelva a sentirse tan poderoso como sus ancestros. Hasta 2017, Jama destacaba como un oasis de tranquilidad; en 2016 cerró con una tasa de **cero homicidios**, espíritu que se mantiene y ofrece un entorno seguro para la inversión social.
 
-El pueblo de **Don Juan** posee un potencial excepcional. La Fundación [**“A mano manaba”**](https://www.amanomanaba.org/), ubicada en Loma Don Juan, por ejemplo, ha logrado premios internacionales, demostrando que la comunidad responde cuando se le brindan herramientas. La biodiversidad de la zona permite, además, observar monos aulladores y guacharacas, escenario inigualable para fomentar el respeto al medioambiente.
+El pueblo de **Don Juan** posee un potencial excepcional. La Fundación [**“A mano manaba”**](https://www.amanomanaba.org/), ubicada en Loma Don Juan, por ejemplo, ha logrado premios internacionales, demostrando que la comunidad responde cuando se le brindan herramientas. La biodiversidad de la zona permite, además, observar especies como  monos aulladores, iguanas, guatusas y guacharacas, conformando un escenario inigualable para fomentar el respeto al medioambiente y el aprendizaje pausado.
 
 <p align="center">
   <img src="Los-Monos-de-Loma-Don-Juan.jpg" width="600">
