@@ -90,7 +90,7 @@ Replicar el modelo de la escuela CAF Núñez en la provincia de Jama, concretame
 
 | Métrica | Detalle |
 | :--- | :--- |
-| **Expectativa** | Fformalizar y potenciar iniciativas ciudadanas que hoy operan con recursos limitados, al replicar el modelo de la escuela CAF Núñez en la zona de Jama. Emma Vera, del Municipio de Jama, menciona que existen grupos como los **"Sembradores de paz"**, donde jóvenes que desde el terremoto enseñan a los más pequeños valores a través del juego, pero que *"no tienen para comprar la hoja, para comprar lápiz de colores"* o reponer materiales básicos dañados. La expectativa es profesionalizar estos esfuerzos, enlazándolos con la práctica deportiva y dotándolos de la metodología y recursos de la FRM. |
+| **Expectativa** | Formalizar y potenciar iniciativas ciudadanas que hoy operan con recursos limitados, al replicar el modelo de la escuela CAF Núñez en la zona de Jama. Emma Vera, del Municipio de Jama, menciona que existen grupos como los **"Sembradores de paz"**, donde jóvenes que desde el terremoto enseñan a los más pequeños valores a través del juego, pero que *"no tienen para comprar la hoja, para comprar lápiz de colores"* o reponer materiales básicos dañados. La expectativa es profesionalizar estos esfuerzos, enlazándolos con la práctica deportiva y dotándolos de la metodología y recursos de la FRM. |
 | **Alcance** | Impactar directamente en las 42 comunidades del cantón Jama. Al establecer una base en Don Juan, se crea un polo de desarrollo donde niños desde los 2 años empiezan a formarse en un ambiente sano y seguro. |
 
 <p align="center">
