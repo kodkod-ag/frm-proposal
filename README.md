@@ -163,7 +163,7 @@ A través del diseño estratégico, la narrativa audiovisual y el storytelling, 
   <img src="Presentación-Video.jpg" width="400">
   <img src="Presentación-Video2.jpg" width="400">
   <br>
-  <em>Equipo de Kod Kod presentando el video "Mucho más que fútbol" a sus protagonistas.</em>
+  <em>Equipo de Kod Kod presentando el video "Mucho más que fútbol" a sus protagonistas, en su propio hogar, un espacio reducido en el que conviven tres familias.</em>
 </p>
 
 
