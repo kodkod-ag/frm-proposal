@@ -130,11 +130,11 @@ Según [Fundación Hivos](https://america-latina.hivos.org/program/futuros-urban
 
 Durante diciembre y enero realizamos una inmersión técnica en Jama para entender por qué los programas sociales suelen tener un impacto efímero. Identificamos que el mayor obstáculo es la **erosión de la identidad**.
 
-* **El olvido de la cultura Jama Coaque:** Los niños crecen donde su patrimonio es invisible. Marina Mendoza (Bibliotecaria) resalta: *"Antes teníamos convenio con la Fundación Care... pero con el terremoto todo se perdió... hoy son contadas las bibliotecas que existen"*.
+* **El olvido de la cultura Jama Coaque:** los niños crecen donde su patrimonio es invisible. Marina Mendoza (Bibliotecaria) resalta: *"Antes teníamos convenio con la Fundación Care... pero con el terremoto todo se perdió... hoy son contadas las bibliotecas que existen"*.
   
-* **Pérdida del amor propio:** Al no recibir apoyo para fortalecer su idiosincrasia, los jóvenes desarrollan una "desconexión identitaria". Esto explica por qué el horizonte de metas es tan limitado: el niño no se siente parte de una historia de grandeza, sino de una estadística de escasez.
+* **Pérdida del amor propio:** al no recibir apoyo para fortalecer su idiosincrasia, los jóvenes desarrollan una "desconexión identitaria". Esto explica por qué el horizonte de metas es tan limitado: el niño no se siente parte de una historia de grandeza, sino de una estadística de escasez.
 
-* **Urgencia institucional:** El Municipio reconoce la voluntad de cambio, pero la orfandad presupuestaria impide programas de largo aliento. La FRM puede validar esta identidad a través del deporte.
+* **Urgencia institucional:** el municipio reconoce la voluntad de cambio, pero la orfandad presupuestaria impide programas de largo aliento. La FRM puede validar esta identidad a través del deporte.
 
 ### Reflexión final
 Nuestra propuesta es un **rescate de identidad**. Usaremos el fútbol para que el niño de Jama vuelva a sentirse tan poderoso como sus ancestros. Hasta 2017, Jama destacaba como un oasis de tranquilidad; en 2016 cerró con una tasa de **cero homicidios**, espíritu que se mantiene y ofrece un entorno seguro para la inversión social.
