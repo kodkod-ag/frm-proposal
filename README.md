@@ -38,7 +38,7 @@ Pero no solo eso. A la mayoría de los niños de Manabí se les ha arrebatado el
 </p>
 
 ### La propuesta
-Desde Kod Kod, implementaremos un programa piloto de mentoría tecnológica para formar a los estudiantes como creadores de contenido, en alianza con escuelas de cine, periodistas deportivos y realizadores ecuatorianos, dirigido a 15 niños de entre 7 y 15 años. La formación estará orientada hacia el periodismo deportivo en formato vertical, asimilable para los más pequeños, incluyendo conocimientos básicos de teoría del cine.
+Desde Kod Kod, implementaremos un programa piloto de mentoría tecnológica para formar a los estudiantes como creadores de contenido, en alianza con escuelas de cine, periodistas deportivos y realizadores ecuatorianos, dirigido a 15 niños de entre 7 y 15 años, en principio, con un alcance de 150000 espectadore. La formación estará orientada hacia el periodismo deportivo en formato vertical, asimilable para los más pequeños, incluyendo conocimientos básicos de teoría del cine.
 
 ### Impacto estimado
 | Métrica | Detalle |
@@ -105,7 +105,7 @@ Replicar el modelo de la escuela CAF Núñez en la provincia de Jama, concretame
 La vulnerabilidad extrema donde el ingreso familiar a menudo se diluye en el consumo de alcohol, descuidando las necesidades básicas y nutricionales de los menores.
 
 ### La propuesta
-Desarrollar una iniciativa de largo plazo con aliados como Corporación La Favorita, El Rosado, USFQ y Grupo Futuro para facilitar acceso a salud, educación y alimentación.
+Desarrollar una iniciativa de largo plazo con aliados como Corporación La Favorita, El Rosado, USFQ y Grupo Futuro para facilitar acceso a salud, educación y alimentación, con quienes hay posibilidades reales de acercamiento, para un proyecto a largo plazo. La gestión de producción ejecutiva y levantamiento de fondos estará a cargo de Kod Kod. 
 
 | Métrica | Detalle |
 | :--- | :--- |
