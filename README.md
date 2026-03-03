@@ -105,7 +105,7 @@ Replicar el modelo de la escuela CAF Núñez en la provincia de Jama, concretame
 La vulnerabilidad extrema donde el ingreso familiar a menudo se diluye en el consumo de alcohol, descuidando las necesidades básicas y nutricionales de los menores.
 
 ### La propuesta
-Desarrollar una iniciativa de largo plazo con aliados como Corporación La Favorita, El Rosado, USFQ y Grupo Futuro para facilitar acceso a salud, educación y alimentación, con quienes hay posibilidades reales de acercamiento, para un proyecto a largo plazo. La gestión de producción ejecutiva y levantamiento de fondos estará a cargo de Kod Kod. 
+Desarrollar una iniciativa **de largo plazo** con aliados como Corporación La Favorita, El Rosado, USFQ y Grupo Futuro para facilitar acceso a salud, educación y alimentación, con quienes hay posibilidades reales de acercamiento, para un proyecto a largo plazo. La gestión de producción ejecutiva y levantamiento de fondos estará cargo de Kod Kod. 
 
 | Métrica | Detalle |
 | :--- | :--- |
@@ -124,11 +124,17 @@ Desarrollar una iniciativa de largo plazo con aliados como Corporación La Favor
   <img src="Cultura-Jama-Coaque3.jpg" width="500">
 </p>
 
+<p align="center"> 
+<br><br>
+<img src="Biblioteca-de-Jama.jpg" width="500">
+<br>
+ <em>Entrevistamos a los representantes de la Bibiloteca de Jama y el Museo de Jama.</em>
+  
 Nuestra propuesta se concentra en la zona de Jama, Manabí, punto estratégico de la llamada "Mancomunidad del Pacífico Norte", [MANPANOR](https://manpanor.gob.ec), cuyo actual presidente, Néxsar Cevallos Medina, es también el actual alcalde del cantón Jama. Hemos detectado que en la zona existen varias iniciativas ciudadanas, entre las cuales se destacan Jóvenes de MANPANOR y Sembradores de Paz, así como la Fundación A Mano Manaba y la iniciativa Futuros Urbanos, de Fundación Hivos. Estas iniciativas cubren aspectos como el fomento de la lectura y el desarrollo cultural, además de la soberanía alimentaria y la alimentación inclusiva. 
 
 Según [Fundación Hivos](https://america-latina.hivos.org/program/futuros-urbanos/ciudades/manpanor/), "MANPANOR (Mancomunidad Pacífico Norte de Manabí) está conformada por cuatro municipios con una población total de unos 200.000 habitantes, de los cuales el 60 % son menores de 30 años. La Mancomunidad se creó para reforzar la gobernanza y la participación ciudadana en cuestiones de desarrollo. Sus municipios se enfrentan a los mismos retos, entre ellos la migración juvenil..."
 
-Durante diciembre y enero realizamos una inmersión técnica en Jama para entender por qué los programas sociales suelen tener un impacto efímero. Identificamos que el mayor obstáculo es la **erosión de la identidad**.
+Durante diciembre y enero realizamos una inmersión técnica en Jama para entender por qué los programas sociales suelen tener un impacto efímero. Realizamos entrevistas más profundas a los participantes del video **Mucho más que fútbol**; conversamos con jóvenes y pescadores y nos entrevistamos con personal del **Municipio de Jama**, la **Biblioteca de Jama** y su respectivo museo. Identificamos que el mayor obstáculo es la **erosión de la identidad**.
 
 * **El olvido de la cultura Jama Coaque:** los niños crecen donde su patrimonio es invisible. Marina Mendoza (Bibliotecaria) resalta: *"Antes teníamos convenio con la Fundación Care... pero con el terremoto todo se perdió... hoy son contadas las bibliotecas que existen"*.
   
