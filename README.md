@@ -109,8 +109,8 @@ Desarrollar una iniciativa **de largo plazo** con aliados como Corporación La F
 
 | Métrica | Detalle |
 | :--- | :--- |
-| **Expectativa** | Implementar un sistema de apoyo integral. Emma Vera menciona el modelo actual de entrega de *"funditas de comida"* y charlas médicas. Buscamos mejorar esto introduciendo al deporte como motor: quienes más se involucren recibirán bonos de salud y alimentación, asegurando que el recurso llegue directamente al bienestar del niño. |
-| **Alcance** | Lograr una transformación en los hábitos de las familias. Actualmente, se potencia la creación de "huertos orgánicos" y entrega de semillas. Se busca que las madres puedan *"sembrar en su casa y tener para aliñar su comida"* de manera sana y autosustentable. Al introducir el elemento deportivo como motor de desarrollo, es posible potenciar iniciativas de pequeña escala y convertirlas en un sistema sólido de salud alimentaria y evolución social. |
+| **Expectativa** | Implementar un sistema de apoyo integral. Emma Vera menciona el modelo actual de entrega de *"funditas de comida"* y charlas médicas. Buscamos mejorar esto introduciendo al deporte como motor: quienes más se involucren recibirán bonos de salud, educación y alimentación, asegurando que el recurso llegue directamente al bienestar del niño. |
+| **Alcance** | Lograr una transformación en los hábitos de las familias. Actualmente, se potencia la creación de "huertos orgánicos" y entrega de semillas. Se busca que las madres puedan *"sembrar en su casa y tener para aliñar su comida"* de manera sana y autosustentable. Al introducir el elemento deportivo como motor de desarrollo, es posible potenciar iniciativas de pequeña escala y convertirlas en un sistema sólido de salud, educación, soberanía alimentaria y evolución social. |
 
 <p align="center">
   <img src="Familia-Manabita.png" width="600">
